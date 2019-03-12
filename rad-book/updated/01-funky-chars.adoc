@@ -6,12 +6,12 @@ he resides alone in a retired situation, about a mile in the country, has a gard
 and with what it produces, etc., is worth about £14 per year:
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+exercitation   ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
 dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
-This one £25 was added manually through vim.
+This one £25 was added manually through vim, good sir.
 
 Testing github webhooks.
 Now with another edit.
